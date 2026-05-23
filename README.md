@@ -1,7 +1,5 @@
 # Metro Manila Transportation Trend Dashboard
 
-**Lea Nikka F. Perez | PUP Computer Engineering | Big Data Specialization**
-
 A Streamlit dashboard visualizing Metro Manila traffic incidents and MRT-3 ridership trends,
 built with Python (ETL), SQL (analysis), and Streamlit + Plotly (visualization).
 
